@@ -1,2 +1,2 @@
 # Hello-World
-简单例子
+描述如何使用github
